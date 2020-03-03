@@ -10,8 +10,6 @@ int main()
 	setlocale(LC_ALL, "Russian");
 	int e;
 	int dollarh, euroh, poundh;
-	std::vector<Currency *> bodies;
-
 	Currency *save;
 	do {
 		system("pause");
